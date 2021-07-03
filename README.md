@@ -1,0 +1,2 @@
+# SimplePoiMap
+GeoJSONファイルのPOIを表示する簡単なマップ
