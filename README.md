@@ -10,6 +10,6 @@ GitHub Pagesによる表示は [こちら](https://midoriit.github.io/SimplePoiM
 3. poi.geojsonを表示したいPOIのデータで置き換える
 4. GitHub Pagesを設定して公開する
 
-## 利用しているサイト
+## 利用例
 
 * [地域の石造物資料目録](https://midoriit.github.io/booklist/)
