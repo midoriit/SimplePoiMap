@@ -12,8 +12,9 @@ GitHub Pagesによる表示は [こちら](https://midoriit.github.io/SimplePoiM
 
 ## 利用例
 
+* [萬石以上分限帳](https://midoriit.github.io/mangoku/)
 * [地域の石造物資料目録](https://midoriit.github.io/booklist/)
-
+ 
 ## OSSライセンス
 
 * [Leaflet](https://leafletjs.com/) (2-Clause BSD)
