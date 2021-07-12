@@ -18,7 +18,8 @@
             },
             "properties": {
                 "NAME": "神奈川県立四季の森公園",
-                "ADDRESS": "神奈川県横浜市緑区寺山町"
+                "ADDRESS": "神奈川県横浜市緑区寺山町",
+                "PHOTO": "<img src=”photo/shikinomori.jpg” width=”320” height=”240”>"
             }
         },
         {
@@ -32,7 +33,8 @@
             },
             "properties": {
                 "NAME": "里山ガーデン",
-                "ADDRESS": "神奈川県横浜市旭区上白根町"
+                "ADDRESS": "神奈川県横浜市旭区上白根町",
+                "PHOTO": ""
             }
         },
         {
@@ -46,7 +48,8 @@
             },
             "properties": {
                 "NAME": "よこはま動物園ズーラシア",
-                "ADDRESS": "神奈川県横浜市旭区上白根町"
+                "ADDRESS": "神奈川県横浜市旭区上白根町",
+                "PHOTO": ""
             }
         }
     ]
