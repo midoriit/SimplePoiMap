@@ -19,7 +19,7 @@
             "properties": {
                 "NAME": "神奈川県立四季の森公園",
                 "ADDRESS": "神奈川県横浜市緑区寺山町",
-                "PHOTO": "<img src=”/SimplePoiMap/photo/shikinomori.jpg” width=”320” height=”240”>"
+                "PHOTO": "<img src=\"/SimplePoiMap/photo/shikinomori.jpg\" width=\"320\" height=\"240\">"
             }
         },
         {
