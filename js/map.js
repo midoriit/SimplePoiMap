@@ -6,7 +6,7 @@
   var layer = L.tileLayer(
     'https://cyberjapandata.gsi.go.jp/xyz/pale/{z}/{x}/{y}.png', {
        opacity: 0.6,
-       attribution: '<a href="http://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html" target="_blank">国土地理院</a>'
+       attribution: '<a href="https://maps.gsi.go.jp/development/ichiran.html" target="_blank">国土地理院</a>'
   });
 
   layer.addTo(map);
